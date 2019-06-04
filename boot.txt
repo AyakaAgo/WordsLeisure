@@ -1,6 +1,6 @@
 {
 {
-show=false,
+show=true,
 img="http://pic1.win4000.com/mobile/2019-05-24/5ce79ccf96d04.jpg",
 content="小清新壁纸，快来看看吧",
 action=function()
@@ -16,7 +16,7 @@ print("testing")
 end,
 },
 {
-show=false,
+show=true,
 img="http://pic1.win4000.com/mobile/2019-05-24/5ce79ccf96d04.jpg",
 content="小清新壁纸，快来看看吧",
 action=function()
@@ -32,7 +32,7 @@ print("testing")
 end,
 },
 {
-show=false,
+show=true,
 img="http://pic1.win4000.com/mobile/2019-05-24/5ce79ccf96d04.jpg",
 content="小清新壁纸，快来看看吧",
 action=function()
