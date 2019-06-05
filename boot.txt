@@ -1,5 +1,5 @@
 {
-enabled=true,
+enabled=false,
 {
 show=true,
 img="http://pic1.win4000.com/mobile/2019-05-24/5ce79ccf96d04.jpg",
