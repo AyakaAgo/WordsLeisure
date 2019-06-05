@@ -28,5 +28,5 @@ LinearLayout,
               --layout_alignParentRight=true,
               layout_gravity="right|center",
             },
-          },
+       },
 }
