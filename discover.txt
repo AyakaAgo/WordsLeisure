@@ -2,7 +2,7 @@
 LinearLayout,
 orientation="vertical",
 layout_width="fill",
- {
+ --[[{
             FrameLayout,
             --layout_marginTop=lay_wh*0.5,
             --layout_height=lay_wh,
@@ -30,5 +30,5 @@ layout_width="fill",
               --layout_alignParentRight=true,
               layout_gravity="right|center",
             },
-          },
+          },]]
 }
