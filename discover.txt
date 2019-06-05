@@ -1,6 +1,65 @@
 {
 LinearLayout,
+orientation="vertical",
  {
+            FrameLayout,
+            --layout_marginTop=lay_wh*0.5,
+            --layout_height=lay_wh,
+            layout_width="fill",
+            padding="4.5%w",
+            layout_gravity="center",
+            onClick=function ()
+              openInBrowser("http://qqq.rerv.cn/")
+            end,
+            foreground=波纹(0x30000000),
+            {
+              TextView,
+              text="此项目为远程布局",
+              textSize="16sp",
+              layout_gravity="left|center",
+              textColor=0xff000000,
+            layout_height="fill",
+            },
+            {
+              ImageView,
+              src="drawable/arrow.png",
+              rotation=-90,
+              layout_width="7%w",
+              layout_height="7%w",
+              --layout_alignParentRight=true,
+              layout_gravity="right|center",
+            },
+       },
+{
+            FrameLayout,
+            --layout_marginTop=lay_wh*0.5,
+            --layout_height=lay_wh,
+            layout_width="fill",
+            padding="4.5%w",
+            layout_gravity="center",
+            onClick=function ()
+              openInBrowser("http://qqq.rerv.cn/")
+            end,
+            foreground=波纹(0x30000000),
+            {
+              TextView,
+              text="此项目为远程布局",
+              textSize="16sp",
+              layout_gravity="left|center",
+              textColor=0xff000000,
+            layout_height="fill",
+            },
+            {
+              ImageView,
+              src="drawable/arrow.png",
+              rotation=-90,
+              layout_width="7%w",
+              layout_height="7%w",
+              --layout_alignParentRight=true,
+              layout_gravity="right|center",
+            },
+       },
+{
             FrameLayout,
             --layout_marginTop=lay_wh*0.5,
             --layout_height=lay_wh,
