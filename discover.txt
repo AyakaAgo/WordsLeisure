@@ -1,0 +1,7 @@
+{
+LinearLayout,
+{
+TextView,
+Text="gujsjsjuu",
+},
+}
