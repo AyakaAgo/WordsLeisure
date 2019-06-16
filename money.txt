@@ -1,4 +1,0 @@
-{
-LinearLayout,
-orientation="vertical",
-}
