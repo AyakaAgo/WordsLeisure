@@ -65,4 +65,5 @@ textSize="14sp",
 paddingTop="2.5%w",
 },
 },
+},
 }
