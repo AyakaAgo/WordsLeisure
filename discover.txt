@@ -33,7 +33,7 @@ LinearLayout,
 orientation="vertical",
 layout_width="fill",
 onClick=function ()
-InAppBrowser("bizhi","https://www.coolapk.com/apk/com.abox.caay")
+InAppBrowser("https://www.coolapk.com/apk/com.abox.caay","A box")
 end,
 foreground=波纹(0x30000000),
 {
@@ -44,8 +44,8 @@ layout_gravity="center",
 {
 ImageView,
 src="http://image.coolapk.com/apk_logo/2019/0309/14/A-box_1.0-220083-o_1d5gij9sq1hbfslqjnu1rr5mm31i-uid-2105798@838x839.png",
-layout_width="14%w",
-layout_height="14%w",
+layout_width="12%w",
+layout_height="12%w",
 layout_gravity="center",
 },
 {
@@ -54,6 +54,7 @@ text="A box",
 textSize="16sp",
 layout_gravity="center",
 textColor=0xff000000,
+paddingLeft="4.5%w",
 layout_height="fill",
 },
 },
