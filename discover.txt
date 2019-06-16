@@ -17,7 +17,6 @@ layout_width="fill",
             {
               TextView,
               text="应用推荐",
-              --textColor=0xff444444,
               textSize="14sp",
               layout_height="fill",
               layout_width="wrap",
